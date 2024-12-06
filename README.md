@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praween soni
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript,C++.
+- 🌱 I’m currently learning JAVA.
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=VCportfolio&label=Views&color=12&icon=3&pretty=false" />
 </a>
